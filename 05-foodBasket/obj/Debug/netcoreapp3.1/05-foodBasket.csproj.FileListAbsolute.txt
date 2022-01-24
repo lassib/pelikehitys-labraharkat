@@ -1,0 +1,14 @@
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\05-foodBasket\bin\Debug\netcoreapp3.1\05-foodBasket.exe
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\05-foodBasket\bin\Debug\netcoreapp3.1\05-foodBasket.deps.json
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\05-foodBasket\bin\Debug\netcoreapp3.1\05-foodBasket.runtimeconfig.json
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\05-foodBasket\bin\Debug\netcoreapp3.1\05-foodBasket.runtimeconfig.dev.json
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\05-foodBasket\bin\Debug\netcoreapp3.1\05-foodBasket.dll
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\05-foodBasket\bin\Debug\netcoreapp3.1\05-foodBasket.pdb
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\05-foodBasket\obj\Debug\netcoreapp3.1\05-foodBasket.csproj.AssemblyReference.cache
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\05-foodBasket\obj\Debug\netcoreapp3.1\05-foodBasket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\05-foodBasket\obj\Debug\netcoreapp3.1\05-foodBasket.AssemblyInfoInputs.cache
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\05-foodBasket\obj\Debug\netcoreapp3.1\05-foodBasket.AssemblyInfo.cs
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\05-foodBasket\obj\Debug\netcoreapp3.1\05-foodBasket.csproj.CoreCompileInputs.cache
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\05-foodBasket\obj\Debug\netcoreapp3.1\05-foodBasket.dll
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\05-foodBasket\obj\Debug\netcoreapp3.1\05-foodBasket.pdb
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\05-foodBasket\obj\Debug\netcoreapp3.1\05-foodBasket.genruntimeconfig.cache

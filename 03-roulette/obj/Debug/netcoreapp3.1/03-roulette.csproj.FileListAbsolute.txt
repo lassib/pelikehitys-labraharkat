@@ -1,0 +1,14 @@
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\03-roulette\bin\Debug\netcoreapp3.1\03-roulette.exe
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\03-roulette\bin\Debug\netcoreapp3.1\03-roulette.deps.json
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\03-roulette\bin\Debug\netcoreapp3.1\03-roulette.runtimeconfig.json
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\03-roulette\bin\Debug\netcoreapp3.1\03-roulette.runtimeconfig.dev.json
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\03-roulette\bin\Debug\netcoreapp3.1\03-roulette.dll
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\03-roulette\bin\Debug\netcoreapp3.1\03-roulette.pdb
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\03-roulette\obj\Debug\netcoreapp3.1\03-roulette.csproj.AssemblyReference.cache
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\03-roulette\obj\Debug\netcoreapp3.1\03-roulette.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\03-roulette\obj\Debug\netcoreapp3.1\03-roulette.AssemblyInfoInputs.cache
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\03-roulette\obj\Debug\netcoreapp3.1\03-roulette.AssemblyInfo.cs
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\03-roulette\obj\Debug\netcoreapp3.1\03-roulette.csproj.CoreCompileInputs.cache
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\03-roulette\obj\Debug\netcoreapp3.1\03-roulette.dll
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\03-roulette\obj\Debug\netcoreapp3.1\03-roulette.pdb
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\03-roulette\obj\Debug\netcoreapp3.1\03-roulette.genruntimeconfig.cache

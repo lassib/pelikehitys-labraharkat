@@ -1,0 +1,13 @@
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\01-car\obj\Debug\netcoreapp3.1\01-car.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\01-car\obj\Debug\netcoreapp3.1\01-car.AssemblyInfoInputs.cache
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\01-car\obj\Debug\netcoreapp3.1\01-car.AssemblyInfo.cs
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\01-car\obj\Debug\netcoreapp3.1\01-car.csproj.CoreCompileInputs.cache
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\01-car\bin\Debug\netcoreapp3.1\01-car.exe
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\01-car\bin\Debug\netcoreapp3.1\01-car.deps.json
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\01-car\bin\Debug\netcoreapp3.1\01-car.runtimeconfig.json
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\01-car\bin\Debug\netcoreapp3.1\01-car.runtimeconfig.dev.json
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\01-car\bin\Debug\netcoreapp3.1\01-car.dll
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\01-car\bin\Debug\netcoreapp3.1\01-car.pdb
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\01-car\obj\Debug\netcoreapp3.1\01-car.dll
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\01-car\obj\Debug\netcoreapp3.1\01-car.pdb
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\01-car\obj\Debug\netcoreapp3.1\01-car.genruntimeconfig.cache

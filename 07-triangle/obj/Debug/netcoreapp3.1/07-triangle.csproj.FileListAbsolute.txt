@@ -1,0 +1,13 @@
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\07-triangle\bin\Debug\netcoreapp3.1\07-triangle.exe
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\07-triangle\bin\Debug\netcoreapp3.1\07-triangle.deps.json
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\07-triangle\bin\Debug\netcoreapp3.1\07-triangle.runtimeconfig.json
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\07-triangle\bin\Debug\netcoreapp3.1\07-triangle.runtimeconfig.dev.json
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\07-triangle\bin\Debug\netcoreapp3.1\07-triangle.dll
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\07-triangle\bin\Debug\netcoreapp3.1\07-triangle.pdb
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\07-triangle\obj\Debug\netcoreapp3.1\07-triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\07-triangle\obj\Debug\netcoreapp3.1\07-triangle.AssemblyInfoInputs.cache
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\07-triangle\obj\Debug\netcoreapp3.1\07-triangle.AssemblyInfo.cs
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\07-triangle\obj\Debug\netcoreapp3.1\07-triangle.csproj.CoreCompileInputs.cache
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\07-triangle\obj\Debug\netcoreapp3.1\07-triangle.dll
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\07-triangle\obj\Debug\netcoreapp3.1\07-triangle.pdb
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\07-triangle\obj\Debug\netcoreapp3.1\07-triangle.genruntimeconfig.cache

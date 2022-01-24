@@ -1,0 +1,14 @@
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\02-diceRoller\bin\Debug\netcoreapp3.1\02-diceRoller.exe
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\02-diceRoller\bin\Debug\netcoreapp3.1\02-diceRoller.deps.json
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\02-diceRoller\bin\Debug\netcoreapp3.1\02-diceRoller.runtimeconfig.json
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\02-diceRoller\bin\Debug\netcoreapp3.1\02-diceRoller.runtimeconfig.dev.json
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\02-diceRoller\bin\Debug\netcoreapp3.1\02-diceRoller.dll
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\02-diceRoller\bin\Debug\netcoreapp3.1\02-diceRoller.pdb
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\02-diceRoller\obj\Debug\netcoreapp3.1\02-diceRoller.csproj.AssemblyReference.cache
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\02-diceRoller\obj\Debug\netcoreapp3.1\02-diceRoller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\02-diceRoller\obj\Debug\netcoreapp3.1\02-diceRoller.AssemblyInfoInputs.cache
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\02-diceRoller\obj\Debug\netcoreapp3.1\02-diceRoller.AssemblyInfo.cs
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\02-diceRoller\obj\Debug\netcoreapp3.1\02-diceRoller.csproj.CoreCompileInputs.cache
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\02-diceRoller\obj\Debug\netcoreapp3.1\02-diceRoller.dll
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\02-diceRoller\obj\Debug\netcoreapp3.1\02-diceRoller.pdb
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\02-diceRoller\obj\Debug\netcoreapp3.1\02-diceRoller.genruntimeconfig.cache

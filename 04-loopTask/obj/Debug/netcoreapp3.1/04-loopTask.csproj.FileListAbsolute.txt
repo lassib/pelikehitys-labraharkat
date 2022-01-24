@@ -1,0 +1,13 @@
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\04-loopTask\obj\Debug\netcoreapp3.1\04-loopTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\04-loopTask\obj\Debug\netcoreapp3.1\04-loopTask.AssemblyInfoInputs.cache
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\04-loopTask\obj\Debug\netcoreapp3.1\04-loopTask.AssemblyInfo.cs
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\04-loopTask\obj\Debug\netcoreapp3.1\04-loopTask.csproj.CoreCompileInputs.cache
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\04-loopTask\bin\Debug\netcoreapp3.1\04-loopTask.exe
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\04-loopTask\bin\Debug\netcoreapp3.1\04-loopTask.deps.json
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\04-loopTask\bin\Debug\netcoreapp3.1\04-loopTask.runtimeconfig.json
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\04-loopTask\bin\Debug\netcoreapp3.1\04-loopTask.runtimeconfig.dev.json
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\04-loopTask\bin\Debug\netcoreapp3.1\04-loopTask.dll
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\04-loopTask\bin\Debug\netcoreapp3.1\04-loopTask.pdb
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\04-loopTask\obj\Debug\netcoreapp3.1\04-loopTask.dll
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\04-loopTask\obj\Debug\netcoreapp3.1\04-loopTask.pdb
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\04-loopTask\obj\Debug\netcoreapp3.1\04-loopTask.genruntimeconfig.cache
