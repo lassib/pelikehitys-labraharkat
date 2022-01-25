@@ -1,0 +1,14 @@
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\11-translator\bin\Debug\netcoreapp3.1\11-translator.exe
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\11-translator\bin\Debug\netcoreapp3.1\11-translator.deps.json
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\11-translator\bin\Debug\netcoreapp3.1\11-translator.runtimeconfig.json
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\11-translator\bin\Debug\netcoreapp3.1\11-translator.runtimeconfig.dev.json
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\11-translator\bin\Debug\netcoreapp3.1\11-translator.dll
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\11-translator\bin\Debug\netcoreapp3.1\11-translator.pdb
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\11-translator\obj\Debug\netcoreapp3.1\11-translator.csproj.AssemblyReference.cache
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\11-translator\obj\Debug\netcoreapp3.1\11-translator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\11-translator\obj\Debug\netcoreapp3.1\11-translator.AssemblyInfoInputs.cache
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\11-translator\obj\Debug\netcoreapp3.1\11-translator.AssemblyInfo.cs
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\11-translator\obj\Debug\netcoreapp3.1\11-translator.csproj.CoreCompileInputs.cache
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\11-translator\obj\Debug\netcoreapp3.1\11-translator.dll
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\11-translator\obj\Debug\netcoreapp3.1\11-translator.pdb
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\11-translator\obj\Debug\netcoreapp3.1\11-translator.genruntimeconfig.cache

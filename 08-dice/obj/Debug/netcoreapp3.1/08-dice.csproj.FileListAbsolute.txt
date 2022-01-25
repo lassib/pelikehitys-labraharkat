@@ -1,0 +1,13 @@
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\08-dice\obj\Debug\netcoreapp3.1\08-dice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\08-dice\obj\Debug\netcoreapp3.1\08-dice.AssemblyInfoInputs.cache
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\08-dice\obj\Debug\netcoreapp3.1\08-dice.AssemblyInfo.cs
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\08-dice\obj\Debug\netcoreapp3.1\08-dice.csproj.CoreCompileInputs.cache
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\08-dice\bin\Debug\netcoreapp3.1\08-dice.exe
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\08-dice\bin\Debug\netcoreapp3.1\08-dice.deps.json
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\08-dice\bin\Debug\netcoreapp3.1\08-dice.runtimeconfig.json
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\08-dice\bin\Debug\netcoreapp3.1\08-dice.runtimeconfig.dev.json
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\08-dice\bin\Debug\netcoreapp3.1\08-dice.dll
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\08-dice\bin\Debug\netcoreapp3.1\08-dice.pdb
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\08-dice\obj\Debug\netcoreapp3.1\08-dice.dll
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\08-dice\obj\Debug\netcoreapp3.1\08-dice.pdb
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\08-dice\obj\Debug\netcoreapp3.1\08-dice.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\12-commands\bin\Debug\netcoreapp3.1\12-commands.exe
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\12-commands\bin\Debug\netcoreapp3.1\12-commands.deps.json
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\12-commands\bin\Debug\netcoreapp3.1\12-commands.runtimeconfig.json
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\12-commands\bin\Debug\netcoreapp3.1\12-commands.runtimeconfig.dev.json
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\12-commands\bin\Debug\netcoreapp3.1\12-commands.dll
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\12-commands\bin\Debug\netcoreapp3.1\12-commands.pdb
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\12-commands\obj\Debug\netcoreapp3.1\12-commands.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\12-commands\obj\Debug\netcoreapp3.1\12-commands.AssemblyInfoInputs.cache
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\12-commands\obj\Debug\netcoreapp3.1\12-commands.AssemblyInfo.cs
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\12-commands\obj\Debug\netcoreapp3.1\12-commands.csproj.CoreCompileInputs.cache
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\12-commands\obj\Debug\netcoreapp3.1\12-commands.dll
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\12-commands\obj\Debug\netcoreapp3.1\12-commands.pdb
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\12-commands\obj\Debug\netcoreapp3.1\12-commands.genruntimeconfig.cache
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\12-commands\obj\Debug\netcoreapp3.1\12-commands.csproj.AssemblyReference.cache

@@ -34,7 +34,7 @@ namespace _07_triangle
                 }
                 Console.WriteLine();
             }
-            Console.WriteLine("Triangle of size " + height + " created");
+            Console.WriteLine("Cristmasttree of size " + height + " created");
         }
     }
 }
