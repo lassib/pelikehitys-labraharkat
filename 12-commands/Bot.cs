@@ -24,7 +24,7 @@ namespace _12_commands
                 {"execute", "START"}
             };
 
-            while (state1 == true)
+            while (state1)
             {
                 Console.WriteLine("Type \"start\" or \"execute\" to start program");
                 string word = Console.ReadLine();
@@ -36,7 +36,7 @@ namespace _12_commands
                 }
             }
 
-            while (state2 == true)
+            while (state2)
             {
                 Console.WriteLine("Use any of the commands: stop, exit, quit, end, print");
                 string word = Console.ReadLine();

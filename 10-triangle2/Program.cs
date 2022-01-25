@@ -9,7 +9,7 @@ namespace _10_triangle2
             Console.WriteLine("Hello World!");
             Triangle theTriangle = new Triangle();
             bool state = true;
-            while(state == true){
+            while(state){
                 Console.WriteLine("Enter size of triangle in integer: ");
                 string a;
                 a = Console.ReadLine();

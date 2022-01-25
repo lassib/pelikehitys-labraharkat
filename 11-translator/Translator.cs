@@ -16,7 +16,7 @@ namespace _11_translator
                 {"pöytä", "table" }
             };
 
-            while(state == true)
+            while(state)
             {
                 Console.WriteLine("Give a word in finnish: ");
                 string word = Console.ReadLine();
