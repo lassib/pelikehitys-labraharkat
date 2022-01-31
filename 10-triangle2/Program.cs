@@ -10,7 +10,7 @@ namespace _10_triangle2
             Triangle theTriangle = new Triangle();
             bool state = true;
             while(state){
-                Console.WriteLine("Enter size of triangle in integer: ");
+                Console.WriteLine("Enter size of triangle and christmas tree in integer: ");
                 string a;
                 a = Console.ReadLine();
                 int b;
@@ -19,7 +19,7 @@ namespace _10_triangle2
                 {
                     state = false;
                     theTriangle.drawStar(b);
-                    theTriangle.drawCristmasTree(b);
+                    theTriangle.drawChristmasTree(b);
                 }
                 else
                 {

@@ -11,3 +11,4 @@ C:\Users\eucal\source\repos\pelikehitys-labraharkat\07-triangle\obj\Debug\netcor
 C:\Users\eucal\source\repos\pelikehitys-labraharkat\07-triangle\obj\Debug\netcoreapp3.1\07-triangle.dll
 C:\Users\eucal\source\repos\pelikehitys-labraharkat\07-triangle\obj\Debug\netcoreapp3.1\07-triangle.pdb
 C:\Users\eucal\source\repos\pelikehitys-labraharkat\07-triangle\obj\Debug\netcoreapp3.1\07-triangle.genruntimeconfig.cache
+C:\Users\eucal\source\repos\pelikehitys-labraharkat\07-triangle\obj\Debug\netcoreapp3.1\07-triangle.csproj.AssemblyReference.cache
