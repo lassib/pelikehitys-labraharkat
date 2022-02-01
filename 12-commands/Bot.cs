@@ -8,8 +8,8 @@ namespace _12_commands
     {
         public void commandBot()
         {
-            bool state1 = true;
-            bool state2 = false;
+            bool waitForStart = true;
+            bool programRunning = false;
 
             var stopCommands = new Dictionary<string, string>()
             {
@@ -24,26 +24,26 @@ namespace _12_commands
                 {"execute", "START"}
             };
 
-            while (state1)
+            while (waitForStart)
             {
                 Console.WriteLine("Type \"start\" or \"execute\" to start program");
                 string word = Console.ReadLine();
 
                 if (startCommands.ContainsKey(word))
                 {
-                    state1 = false;
-                    state2 = true;
+                    waitForStart = false;
+                    programRunning = true;
                 }
             }
 
-            while (state2)
+            while (programRunning)
             {
                 Console.WriteLine("Use any of the commands: stop, exit, quit, end, print");
                 string word = Console.ReadLine();
 
                 if (stopCommands.ContainsKey(word))
                 {
-                    state2 = false;
+                    programRunning = false;
                     Console.WriteLine("Program stopped!");
                 }
 
